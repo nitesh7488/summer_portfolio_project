@@ -5,10 +5,15 @@ This is a personal portfolio website created using HTML, CSS, and JavaScript.
 Features
 
 Responsive Design: The website adapts seamlessly to different screen sizes, ensuring a positive user experience across desktops, tablets, and mobile devices.
+
 Smooth Scrolling: Enables a pleasant and fluid browsing experience as you navigate through the website's sections.
+
 Animated Text: Emphasizes specific content using dynamic text animations, grabbing the user's attention and adding a touch of personality.
+
 Carousel: Effectively showcases multiple projects or testimonials in a visually appealing and interactive manner.
+
 Contact Form: Provides a convenient way for visitors to get in touch by submitting messages directly through the website.
+
 
 Clone the repository to your local machine.
 code(git clone https://github.com/your-username/personal-portfolio.git)
