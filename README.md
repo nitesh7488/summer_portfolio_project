@@ -17,13 +17,18 @@ Open the index.html file in a web browser.
 Dependencies
 
 jQuery (https://jquery.com/download/)
+
 Typed.js (https://github.com/mattboldt/typed.js/)
+
 Waypoints.js (http://imakewebthings.com/waypoints/)
+
 Owl Carousel 2 (https://github.com/OwlCarousel2/OwlCarousel2)
+
 Author
 
 Nitesh Kumar (https://github.com/nitesh7488)
-    visit live page(https://niteshport.netlify.app/)
+
+visit live page(https://niteshport.netlify.app/)
 
 
 ##################################OUTPUT###############################
