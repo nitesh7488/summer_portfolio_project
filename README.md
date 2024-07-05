@@ -1,4 +1,6 @@
-                         Personal Portfolio Website
+visit my portfolio (https://niteshport.netlify.app/)
+   
+   Personal Portfolio Website
 
 This is a personal portfolio website created using HTML, CSS, and JavaScript.
 
@@ -35,33 +37,31 @@ Nitesh Kumar (https://github.com/nitesh7488)
 
 visit live page(https://niteshport.netlify.app/)
 
+#################OUTPUT#################
 
-##################################OUTPUT###############################
-
-#######################HOME PAGE##################################
+#########HOME PAGE###############
  ![port1](https://github.com/nitesh7488/summer_portfolio_project/assets/120910923/9ab4128c-ddf1-4ed7-a84f-b96d102e3358)
 
 
-###########################ABOUT PAGE##############################
+###########ABOUT PAGE###################
 
  ![port2](https://github.com/nitesh7488/summer_portfolio_project/assets/120910923/db01acef-d232-407a-b78c-317eeb0b38f9)
 
-
-#############################`CERTIFICATES PAGE`#################################
+##########`CERTIFICATESPAGE`############
  
  ![port3](https://github.com/nitesh7488/summer_portfolio_project/assets/120910923/8aed23f0-5f9a-4bdd-8251-fcf53bced84e)
 
-############################SKILLS #####################################
+#######SKILLS #####################
 
 
  ![port4](https://github.com/nitesh7488/summer_portfolio_project/assets/120910923/22205413-000e-4ca3-a0ba-4697c9ec2527)
 
-############################PROJECT PAGE#################################
+######PROJECT PAGE####################
 
  ![port5](https://github.com/nitesh7488/summer_portfolio_project/assets/120910923/94688347-dd85-43a1-b89b-94d644a0ea72)
 
 
-##########################CONTACT PAGE & FOOTER ####################################
+###CONTACT PAGE & FOOTER #############
 
  ![port6](https://github.com/nitesh7488/summer_portfolio_project/assets/120910923/00660bcd-494b-4a0a-839e-bf44c7ce4de7)
 
