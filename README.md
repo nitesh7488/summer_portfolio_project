@@ -39,7 +39,7 @@ visit live page(https://niteshport.netlify.app/)
 ##OUTPUT###
 
 ###HOME PAGE###
- ![port1](https://github.com/nitesh7488/summer_portfolio_project/assets/120910923/9ab4128c-ddf1-4ed7-a84f-b96d102e3358)
+  ![port1](https://github.com/nitesh7488/summer_portfolio_project/assets/120910923/9ab4128c-ddf1-4ed7-a84f-b96d102e3358)
 
 
 ###ABOUT PAGE###
